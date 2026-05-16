@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Voxdrop Updates</title>
+    <link>https://voxdrop.io/appcast.xml</link>
+    <description>Voxdrop release feed for Sparkle auto-update.</description>
+    <language>en</language>
+    <!-- Release items are appended by scripts/build-release.sh during each
+         signed-and-notarized DMG build. EdDSA signatures are required —
+         see Info.plist SUPublicEDKey on the client. -->
+  </channel>
+</rss>
