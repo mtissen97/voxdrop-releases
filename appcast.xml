@@ -8,12 +8,12 @@
     <!-- Release items are appended by scripts/build-release.sh during each
          signed-and-notarized DMG build. EdDSA signatures are required —
          see Info.plist SUPublicEDKey on the client. -->
-      <item>
+    <item>
       <title>Version 1.0.2</title>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Sa., 16 Mai 2026 21:26:29 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 21:26:29 +0000</pubDate>
       <enclosure
         url="https://github.com/mtissen97/voxdrop-releases/releases/download/v1.0.2/Voxdrop-1.0.2.dmg"
         sparkle:edSignature="STzuCag6zHwa6fLvKalsiR8pWGsIvu8JvrS2DCkMXYe2QMZswzKJpJCUNeayE5yeS4scdhb+MSjpJX9S/SBoBg==" length="8903727"
