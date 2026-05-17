@@ -20,5 +20,17 @@
         type="application/octet-stream" />
       <description><![CDATA[Voxdrop 1.0.2]]></description>
     </item>
+    <item>
+      <title>Version 1.0.3</title>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 17 May 2026 17:43:56 +0000</pubDate>
+      <enclosure
+        url="https://github.com/mtissen97/voxdrop-releases/releases/download/v1.0.3/Voxdrop-1.0.3.dmg"
+        sparkle:edSignature="6su/Ph1zMLswKAVEKey7fek25BEKomK+Mrt4cbEnkFG/iW2CvNYz1DnjXGGUf/OytPCKmRgEAQO87MGUFZ/oBA==" length="8921214"
+        type="application/octet-stream" />
+      <description><![CDATA[Voxdrop 1.0.3]]></description>
+    </item>
   </channel>
 </rss>
