@@ -9,9 +9,9 @@
          signed-and-notarized DMG build. EdDSA signatures are required —
          see Info.plist SUPublicEDKey on the client. -->
     <item>
-      <title>Version 1.0.3</title>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <title>Version 1.0.2</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Sat, 16 May 2026 21:26:29 +0000</pubDate>
       <enclosure
