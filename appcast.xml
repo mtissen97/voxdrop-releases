@@ -116,5 +116,19 @@
         type="application/octet-stream" />
       <description><![CDATA[Voxdrop 1.4.0]]></description>
     </item>
+    <item>
+      <title>Version 2.0.0</title>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 14 Sep 2026 22:55:52 +0000</pubDate>
+      <enclosure
+        url="https://github.com/mtissen97/voxdrop-releases/releases/download/v2.0.0/Voxdrop-2.0.0.dmg"
+        sparkle:edSignature="2y9mYQaSOVoPOXRy42ClHTZQpM99UFpADvkKq7XvRG+DwKF4OayLZJPUNE6wdmnOvBHcTDJYToJH7wgpqFrCAg==" length="8909217"
+        type="application/octet-stream" />
+      <description><![CDATA[Neu: Meeting-Aufnahme (Beta) — Calls erkennen, transkribieren und zusammenfassen, komplett auf deinem Mac.
+Dazu drei Themes und eine überarbeitete Oberfläche.
+Meetings brauchen macOS 14.4+ und Pro bzw. den 7-Tage-Trial.]]></description>
+    </item>
   </channel>
 </rss>
