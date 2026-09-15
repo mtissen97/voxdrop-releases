@@ -130,5 +130,19 @@
 Dazu drei Themes und eine überarbeitete Oberfläche.
 Meetings brauchen macOS 14.4+ und Pro bzw. den 7-Tage-Trial.]]></description>
     </item>
+    <item>
+      <title>Version 2.0.1</title>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 15 Sep 2026 13:22:40 +0000</pubDate>
+      <enclosure
+        url="https://github.com/mtissen97/voxdrop-releases/releases/download/v2.0.1/Voxdrop-2.0.1.dmg"
+        sparkle:edSignature="AKASdtnk04aUIv4gtUjI3Gj6UPIFbii0detlStd2zT3XJYSITc/Vp34OFf1RBXE9b93OCO9PiUqHSrp92L6+Cg==" length="8923989"
+        type="application/octet-stream" />
+      <description><![CDATA[Neu: Voxdrop lädt Updates im Hintergrund und installiert sie beim nächsten Beenden — eine „1" am Dock-Icon zeigt, wenn eins bereit ist.
+Nie ein Neustart mitten im Diktat oder Meeting. Abschaltbar unter Einstellungen → Updates.
+Außerdem: Meetings (Beta) wird neuen Nutzern im Onboarding vorgestellt.]]></description>
+    </item>
   </channel>
 </rss>
