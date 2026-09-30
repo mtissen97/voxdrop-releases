@@ -7,7 +7,7 @@ This repository hosts the public release artifacts for **Voxdrop**, a macOS voic
 
 ## What is Voxdrop?
 
-Dictate into any app on your Mac with a single hotkey. Apple Silicon native. 7-day Pro Trial on first launch — no credit card required.
+Dictate into any app on your Mac with a single hotkey. Apple Silicon native. Requires a license key — buy once at https://voxdrop.io (up to 3 Macs, 14-day money-back); lost your key: https://voxdrop.io/license.
 
 The source code is private. Release notes for each version are documented in the [Releases](https://github.com/mtissen97/voxdrop-releases/releases) tab.
 
