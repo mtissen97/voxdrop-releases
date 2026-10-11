@@ -158,5 +158,19 @@ Außerdem: Meetings (Beta) wird neuen Nutzern im Onboarding vorgestellt.]]></des
 Bezahlte Konten bleiben freigeschaltet. Schlüssel verloren? voxdrop.io/license schickt ihn erneut.
 Einstellungen → Lizenz zeigt Schlüssel, Aktivierung und belegte Macs.]]></description>
     </item>
+    <item>
+      <title>Version 2.1.1</title>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 11 Oct 2026 19:23:16 +0000</pubDate>
+      <enclosure
+        url="https://github.com/mtissen97/voxdrop-releases/releases/download/v2.1.1/Voxdrop-2.1.1.dmg"
+        sparkle:edSignature="QR07gJ8OVSlTkz9+mFTLzO3gQi20pRSjLq9Y+l9Pgzpig7NGMl09UEL3QCMKnOch+LTSkijM9P/EyKR0x1wDAw==" length="8826031"
+        type="application/octet-stream" />
+      <description><![CDATA[Keine Anmeldung mehr: Voxdrop wird nur noch mit dem Lizenzschlüssel freigeschaltet; Konto und Cloud-Sync entfallen, deine Daten bleiben auf dem Mac.
+Bibliothek, Meetings und Vokabular sind mit Lizenzschlüssel wieder vollständig sichtbar.
+Geräte verwalten: ein Schlüssel, bis zu 3 Macs — Plätze unter voxdrop.io/license. Feedback öffnet jetzt deine Mail-App.]]></description>
+    </item>
   </channel>
 </rss>
