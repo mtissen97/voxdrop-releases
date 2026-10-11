@@ -144,5 +144,19 @@ Meetings brauchen macOS 14.4+ und Pro bzw. den 7-Tage-Trial.]]></description>
 Nie ein Neustart mitten im Diktat oder Meeting. Abschaltbar unter Einstellungen → Updates.
 Außerdem: Meetings (Beta) wird neuen Nutzern im Onboarding vorgestellt.]]></description>
     </item>
+    <item>
+      <title>Version 2.1.0</title>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 11 Oct 2026 14:49:08 +0000</pubDate>
+      <enclosure
+        url="https://github.com/mtissen97/voxdrop-releases/releases/download/v2.1.0/Voxdrop-2.1.0.dmg"
+        sparkle:edSignature="A3OEG2KqCG18twYORsNKYzu73OmXQ1hT90HZZ+NHcQPZO6D87oKOq3j07AYuI/6ZkNEs9/g4Qx1nC8oo1YVCBg==" length="8929812"
+        type="application/octet-stream" />
+      <description><![CDATA[Neu: Voxdrop wird mit einem Lizenzschlüssel freigeschaltet — Kauf auf voxdrop.io, Schlüssel beim ersten Start eingeben, bis zu 3 Macs. Keine Testphase, kein Gratis-Modus mehr; 14 Tage Geld zurück.
+Bezahlte Konten bleiben freigeschaltet. Schlüssel verloren? voxdrop.io/license schickt ihn erneut.
+Einstellungen → Lizenz zeigt Schlüssel, Aktivierung und belegte Macs.]]></description>
+    </item>
   </channel>
 </rss>
