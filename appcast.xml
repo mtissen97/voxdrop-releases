@@ -190,5 +190,18 @@ Neues, halb so großes Sprachmodell für Meetings (1,6 GB), lädt deutlich schne
 Mit AirPods/Bluetooth-Headsets wird „Andere“ jetzt richtig transkribiert (vorher doppelte Geschwindigkeit).
 Zusammenfassung direkt nach dem Auflegen, dazu eine Kurzfassung mit höchstens 12 Stichpunkten.]]></description>
     </item>
+    <item>
+      <title>Version 2.2.1</title>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 19 Oct 2026 13:53:59 +0000</pubDate>
+      <enclosure
+        url="https://github.com/mtissen97/voxdrop-releases/releases/download/v2.2.1/Voxdrop-2.2.1.dmg"
+        sparkle:edSignature="wB11dvoxMGd3BKCsSwT9xyp0X4FlP/9avSn1uOvvDbWzMq4Juh2ciD3/XMcquJlacyZgzVnzxGhgJcq7KNk0Dg==" length="9079710"
+        type="application/octet-stream" />
+      <description><![CDATA[Kein „Beta“-Hinweis mehr in der Meetings-Übersicht.
+Meeting-Datum und -Uhrzeit in der Sprache der App.]]></description>
+    </item>
   </channel>
 </rss>
