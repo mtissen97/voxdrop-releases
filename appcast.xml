@@ -172,5 +172,23 @@ Einstellungen → Lizenz zeigt Schlüssel, Aktivierung und belegte Macs.]]></des
 Bibliothek, Meetings und Vokabular sind mit Lizenzschlüssel wieder vollständig sichtbar.
 Geräte verwalten: ein Schlüssel, bis zu 3 Macs — Plätze unter voxdrop.io/license. Feedback öffnet jetzt deine Mail-App.]]></description>
     </item>
+    <item>
+      <title>Version 2.2.0</title>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 19 Oct 2026 09:45:08 +0000</pubDate>
+      <enclosure
+        url="https://github.com/mtissen97/voxdrop-releases/releases/download/v2.2.0/Voxdrop-2.2.0.dmg"
+        sparkle:edSignature="9cNyQGrZOoAu3mTDDnGlETHIPcdVw6yErba52So9PfMthLqm2ncJG5Osr9dsAvZkuCtn73+U43t9lYLCS7KzDA==" length="9080584"
+        type="application/octet-stream" />
+      <description><![CDATA[Meetings sind kein Beta mehr — Aufnahme, Live-Transkript und Zusammenfassung sind ein vollwertiges Pro-Feature.
+Meetings werden jetzt live mitgeschrieben: Text erscheint nach jeder Sprechpause, nach dem Auflegen folgen Transkript und Zusammenfassung kurz danach.
+Kein stiller Rückfall mehr auf das Ersatzmodell; falls doch nötig, wird automatisch mit dem großen Modell neu transkribiert.
+Beenden während einer Aufnahme verliert nichts mehr — das Meeting wird beim nächsten Start fertig transkribiert.
+Neues, halb so großes Sprachmodell für Meetings (1,6 GB), lädt deutlich schneller.
+Mit AirPods/Bluetooth-Headsets wird „Andere“ jetzt richtig transkribiert (vorher doppelte Geschwindigkeit).
+Zusammenfassung direkt nach dem Auflegen, dazu eine Kurzfassung mit höchstens 12 Stichpunkten.]]></description>
+    </item>
   </channel>
 </rss>
