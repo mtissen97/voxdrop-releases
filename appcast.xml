@@ -203,5 +203,22 @@ Zusammenfassung direkt nach dem Auflegen, dazu eine Kurzfassung mit höchstens 1
       <description><![CDATA[Kein „Beta“-Hinweis mehr in der Meetings-Übersicht.
 Meeting-Datum und -Uhrzeit in der Sprache der App.]]></description>
     </item>
+    <item>
+      <title>Version 2.3.0</title>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 20 Oct 2026 19:07:31 +0000</pubDate>
+      <enclosure
+        url="https://github.com/mtissen97/voxdrop-releases/releases/download/v2.3.0/Voxdrop-2.3.0.dmg"
+        sparkle:edSignature="Cpjh1AOohtWAtNU1XhenxgH7G7cD5FgkUKKG++0Y6VN7vvYC+52mP59F7Q5ZVndNUy63/81LZ+21hunvGH3pDA==" length="9481554"
+        type="application/octet-stream" />
+      <description><![CDATA[Neuer Reiter „To-dos“: wer macht was bis wann — aus jedem Meeting, nach Personen sortiert, zum Abhaken.
+„Per Mail“ öffnet Zusammenfassung und To-dos als Entwurf in deinem Mail-Programm.
+Automatischer Export jedes Meetings als Markdown (Obsidian) und JSON.
+Lokaler MCP-Server und Befehl „voxdrop“: Claude, Cursor & Co. lesen deine Meetings — ohne Konto, ohne Cloud.
+Kurzbefehle für die letzte Zusammenfassung, offene To-dos, Suche und Diktate.
+Zusammenfassungen auch mit einem lokalen Modell (Ollama, LM Studio) — damit auch auf macOS 14 und 15.]]></description>
+    </item>
   </channel>
 </rss>
